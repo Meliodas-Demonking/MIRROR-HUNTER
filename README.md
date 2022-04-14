@@ -144,10 +144,10 @@ restart - Restart the Bot
 stats - Bot Usage Stats
 ping - Ping the Bot
 help - All cmds with description
-addleechlog - Add alt leech log in database
-rmleechlog - Remove alt leech log from database
 adll - Add Primary leech log in database
 rmll - Remove Primary leech log from database
+addleechlog - Add alt leech log in database
+rmleechlog - Remove alt leech log from database
 ```
 ------
 
