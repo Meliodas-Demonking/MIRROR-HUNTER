@@ -151,6 +151,8 @@ rmll - Remove Primary leech log from database
 ```
 ------
 
+</details>
+
 ## Generate Database
 <details>
     <summary><b>Click Here For More Details</b></summary>
