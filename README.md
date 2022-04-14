@@ -98,7 +98,7 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 </details>
 
 ## How To Deploy it?
-<p><a href="https://github.com/Meliodas-Demonking/MIRROR-HUNTER/wiki"> <img src="https://img.shields.io/badge/Deploy%20Guide-red?style=for-the-badge&logo=github" width="200""/></a></p>
+<p><a href="https://github.com/anime-republic/MIRROR-HUNTER/wiki"> <img src="https://img.shields.io/badge/Deploy%20Guide-red?style=for-the-badge&logo=github" width="200""/></a></p>
 
 # Bot's Commands
 <details>
